@@ -1,0 +1,17 @@
+{
+  "konteyner_sayisi": 2,
+  "konteyner_tipi": "40' HC",
+  "para_birimi": "USD",
+  "mod": "ayri",
+  "ilk_gun_sayilir": true,
+  "kur_try": null,
+  "tahliye": "2026-09-01",
+  "cikis": "2026-09-12",
+  "bos_iade": "2026-09-20",
+  "tarifeler": {
+    "demuraj": [[1, 7, 0], [8, 14, 40], [15, null, 80]],
+    "detention": [[1, 5, 0], [6, 10, 35], [11, null, 70]],
+    "birlesik": [[1, 10, 0], [11, 20, 45], [21, null, 90]],
+    "ardiye": [[1, 3, 0], [4, 10, 12], [11, null, 25]]
+  }
+}
